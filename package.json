@@ -63,11 +63,6 @@
         "category": "Peacock"
       },
       {
-        "command": "peacock.changeColorToPeacockGreen",
-        "title": "Color to Peacock Green",
-        "category": "Peacock"
-      },
-      {
         "command": "peacock.addRecommendedFavorites",
         "title": "Add the Recommended Favorites",
         "category": "Peacock"
