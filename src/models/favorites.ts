@@ -33,7 +33,7 @@ export const starterSetOfFavorites = [
   },
   {
     name: 'PKMN Emerald',
-    value: '#00a000'
+    value: '#00a000',
   },
   {
     name: 'PKMN FireRed',
@@ -112,21 +112,21 @@ export const starterSetOfFavorites = [
     value: '#1f62a3',
   },
   {
-    name: 'PKMN Let\'s go Eevee',
-    value: '#a97a56'
+    name: "PKMN Let's go Eevee",
+    value: '#a97a56',
   },
   {
-    name: 'PKMN Let\'s go Pikachu',
-    value: '#f6e652'
+    name: "PKMN Let's go Pikachu",
+    value: '#f6e652',
   },
   {
     name: 'PKMN Sword',
-    value: '#19e5e6'
+    value: '#19e5e6',
   },
   {
     name: 'PKMN Shield',
-    value: '#e61747'
-  }
+    value: '#e61747',
+  },
 ];
 //fff6a4 amarillo más pálido
 //c08c5c
