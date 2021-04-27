@@ -1,15 +1,15 @@
 {
-  "name": "vscode-peacock",
-  "displayName": "Peacock",
-  "description": "Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.",
+  "name": "vscode-hooh",
+  "displayName": "Ho-Oh",
+  "description": "Fork of Peacock whose defaults are based on Pokémon games.",
   "version": "3.9.1",
-  "publisher": "johnpapa",
+  "publisher": "agarciabz",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/vscode-peacock.git"
+    "url": "https://github.com/agarciabz/vscode-hooh"
   },
-  "homepage": "https://github.com/johnpapa/vscode-peacock/blob/main/README.md",
+  "homepage": "https://github.com/agarciabz/vscode-hooh/blob/main/README.md",
   "icon": "resources/peacock-icon.png",
   "galleryBanner": {
     "color": "#373436",
@@ -40,67 +40,67 @@
       {
         "command": "peacock.docs",
         "title": "Open the Documentation",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.resetWorkspaceColors",
         "title": "Reset Workspace Colors",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.removeAllColors",
         "title": "Remove All Global and Workspace Colors",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.saveColorToFavorites",
         "title": "Save Current Color to Favorites",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.enterColor",
         "title": "Enter a Color",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.addRecommendedFavorites",
         "title": "Add the Recommended Favorites",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.changeColorToRandom",
         "title": "Surprise Me with a Random Color",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.changeColorToFavorite",
         "title": "Change to a Favorite Color",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.darken",
         "title": "Darken",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.lighten",
         "title": "Lighten",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.showAndCopyCurrentColor",
         "title": "Copy the Current Color to the Clipboard",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.changeColorOfLiveShareHost",
         "title": "Change Live Share Color (Host)",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       },
       {
         "command": "peacock.changeColorOfLiveShareGuest",
         "title": "Change Live Share Color (Guest)",
-        "category": "Peacock"
+        "category": "Ho-Oh"
       }
     ],
     "keybindings": [
