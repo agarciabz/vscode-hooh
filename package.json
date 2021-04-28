@@ -1,7 +1,7 @@
 {
   "name": "vscode-hooh",
   "displayName": "Ho-Oh",
-  "description": "Fork of Peacock whose defaults are based on Pokémon games.",
+  "description": "A for-fun fork of Peacock whose default colors are based on Pokémon titles.",
   "version": "3.9.1",
   "publisher": "agarciabz",
   "license": "SEE LICENSE IN LICENSE.md",
